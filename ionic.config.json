@@ -1,0 +1,7 @@
+{
+  "name": "usermanager-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
